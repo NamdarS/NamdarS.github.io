@@ -114,8 +114,9 @@ h2 {
       transform: scale(1.1);
   }
   .cell-1 {
-    background-image: url(projectPics/Roman.png);
-    background-size: cover;
+/*     background-image: url(projectPics/Roman.png);
+    background-size: cover; */
+      background-color: navy
   }
   .cell-2 {
     background-image: url(projectPics/Slidetimer.png);
